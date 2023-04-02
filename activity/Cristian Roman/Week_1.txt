@@ -1,1 +1,56 @@
-First week
+
+📖 Weekly task
+
+- Joined the meeting of ‘Rules’ department where the following aspects have been discussed:
+    - Technology → ****JAVA****
+    
+    
+    📖 ‘Rules’ week tasks:
+    
+    - a *class diagram* including
+        - Characters description
+        - Roles
+        - Game details such as:
+            - Day duration
+            - Voting time management
+    - a diagram containing:
+        - Objectives
+        - Actors
+    - The rules:
+        - The default game rules
+        - The one created the *********host room********* can start the game whenever he wants or the game start automatically after a few seconds when no one enters the room anymore
+    
+    
+- Joined the ‘Integration’ meeting where:
+    - it has been decided how the overall departments communicate one with another
+        - Some identification keys for each component of the game :
+            - Design → Communication
+                - Selection
+                - Turn
+                - Voting
+                - Message
+            - Communication → Rules
+                - Turn
+                - Selection
+- Made a call with ****************Robert Codreanu**************** creating
+    - Container Diagram
+        
+        ### Contains:
+        
+        - Player
+        - Design
+            - Displays the state of the game in real time as a pretty interface
+            - Lets user interact with the game through text boxes and buttons
+        - API Application
+            - Receives data in real time and applies the rules
+            - Sends calls for database to log events
+            - Sends new data to FE with the state modified after the rules' appliance
+        - Database:
+            - *[Container: TO BE DISCUSSED // Mongo ]*
+            - Stores:
+                - messages + sending time
+                - players' roles
+                - sessions
+                - *TO BE DISCUSSED: logs & (audit)*
+    - Component Diagram for ‘Rules’
+- Joined a call on 2 apr 2023 to discuss the backlog and the created diagrams in order to make modifications so that everything is as detailed as possible
