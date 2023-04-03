@@ -1,0 +1,7 @@
+-Managed the discord server as a means for our team to communicate.
+-Desgined the initial architecture of the app by separating the app into components and identifying the necesary protocols to be implemented between each module. Created the basic flow which the game logic should follow.
+-Explained the architecture to the Design team, helped them take decisions regarding which technologies to chose and required parts to be implemented first.
+-Made the component diagram for the Design team along their scrum master by identifying necesary components and indentifying how they should interact with eachother and other modules.
+-Helped create the Rules component diagram along with their scrum master and Robert.
+-Helped explain the communication protocols to our rules scrum master and my team.
+-Reviewed the backlog and made necesary changes with my colleagues.
