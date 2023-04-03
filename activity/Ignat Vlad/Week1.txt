@@ -1,0 +1,11 @@
+-had the first meeting with the integration team where we :
+  -realised the initial arhitecture of the game
+  -established the communication protocols between modules
+-participated at the design module meeting where me and Stefan H. :
+  -presented them the initial arhitecture of the app 
+  -suggested them what technologies and diagrams to make and what to implement
+-realised the context diagram of the app
+-had the second meeting with the integration team where we:
+  -reviewed the backlog and the diagrams and made changes where it was needed
+  -created an initial sprint schedule
+	
