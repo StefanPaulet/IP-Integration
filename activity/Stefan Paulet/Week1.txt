@@ -1,0 +1,19 @@
+Monday: -created the discord server for communication between the entire group; structured the server together with Hara
+Thursday: -had a meeting together with the integration team
+      -realised the general architecture of the application + the communication protocols between modules
+      -participated at the communication teams meeting and presented them with our idea for the application architecture 
+Friday: -assigned a task to each member of the team
+      -created the Gogle docs(for the backlog), Trello workspace and Github repo for the integration team
+      -presented the team with a recommendation for drawing diagrams
+Saturday: -had a meeting with Tudor Hutu (communication module Scrum master) and analyzed in detail the app architecture
+      -realised a components diagram that was later changed after the communication team had another meeting
+      -established the final communication protocols between the front-end and the web server
+Sunday: -updated the container diagram after receiving more information from all the modules
+      -analyzed the product backlog realised by members of the team -> created a general sprint schedule that needs to be discussed with all Scrum masters
+      -had a review of the each members work in the past week
+      -established the need of realising a Trello workspace and a Github repo for the entier group; decided to do it on Monday during class so everything can be clear
+      
+Documented on: -REST APIs
+      -MVC design pattern
+      -Node.js (minimal, further documentation required)
+      -JSON web tokens over session for user identification
