@@ -1,0 +1,4 @@
+-meetings with the integration team and we divided the work between us
+-discussed with the design scrum master about the requests and responses which will be implemented ( in order to prepare for testing them)
+-tested the interface of the game as of now ( if there are problems for what can be clicked and when )
+-documented about Selenium for future, easier and more detailed testing 
