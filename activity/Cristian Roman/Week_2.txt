@@ -1,0 +1,4 @@
+- I have followed the progress of the 'engine' team
+- I took part in 2 meetings with 'integration' scrum master giving details about how the project is performing
+- I have started to get used with 'Cucumber' in Java (a method to test the calls of the endpoints in a story like mode). I wrote some code but it is not yet completed so it is not found on 'main' branch
+- I took part in a call with Robert Codreanu (the other integration member for 'engine' team) explaining how to unit test and what should be tested 
