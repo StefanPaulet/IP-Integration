@@ -1,0 +1,6 @@
+[submodule "ip-backend"]
+	path = ip-backend
+	url = https://github.com/hututudor/ip-backend.git
+[submodule "IP_Design"]
+	path = IP_Design
+	url = https://github.com/maxileo/IP_Design.git
