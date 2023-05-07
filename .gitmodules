@@ -4,3 +4,6 @@
 [submodule "IP_Design"]
 	path = IP_Design
 	url = https://github.com/maxileo/IP_Design.git
+[submodule "Proiect-IP"]
+	path = Proiect-IP
+	url = https://github.com/rares-p/Proiect-IP.git
