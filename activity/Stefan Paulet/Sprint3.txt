@@ -1,0 +1,4 @@
+-Discussed with the other Scrum masters the objectives of the current sprint in order to have a clear target and a very clear data format
+-Tested the new features on localhost and tested api on deployed servers and found issues
+-Identified and helped solve bugs due to miscommunication
+-Created Postman collection for testing the API on the deployed servers
