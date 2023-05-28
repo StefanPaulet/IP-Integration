@@ -1,0 +1,5 @@
+-Organized meeting to inform team of upcoming features that will be implemented
+-Asked Vlad and Luca to test the endpoints for login
+-Helped fix bugs across the other 3 modules
+-Tested the combined modules on localhost
+-Created Postman collection for testing APIs of modules
