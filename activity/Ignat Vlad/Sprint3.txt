@@ -1,0 +1,3 @@
+-meetings with integration team and discussions with design team about what is left to be done
+-tested the interface of the game and its functionalities
+-simulated a game with other memebers of the integration team and found some bugs
