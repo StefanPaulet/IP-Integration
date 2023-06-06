@@ -1,0 +1,2 @@
+-meeting with the integration team where we discussed what is left to be tested
+-played the game with the other members and reported the bugs

@@ -1,0 +1,2 @@
+-meetings with the integration team where we divided the tasks
+-documented about Postman for future, easier and more detailed testing and wrote some unit testing
