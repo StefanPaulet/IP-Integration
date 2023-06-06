@@ -1,0 +1,2 @@
+-Started testing the front-end
+-Made different bugfixes for the front-end
