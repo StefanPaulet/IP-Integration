@@ -1,0 +1,3 @@
+-meetings with integration team 
+-discussed with rules team about what is left to be done and about deploy
+-tested the interface of the game and its functionalities and found some bugs 
