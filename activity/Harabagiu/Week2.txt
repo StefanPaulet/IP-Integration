@@ -1,0 +1,3 @@
+-Meetings with the integration team
+-Gave advice to the back-end team on how to implement certain game rules and what technologies to use
+-Helped design the front-end architecture
