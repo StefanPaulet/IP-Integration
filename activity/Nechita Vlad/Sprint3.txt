@@ -1,0 +1,2 @@
+Am participa la un meeting cu echipa de integrare pentru a discuta ce trebuie facut pentru acest sprint.
+Am testat noile update-uri, gasind diverse bug-uri si raportandu-le

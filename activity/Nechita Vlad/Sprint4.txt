@@ -1,0 +1,3 @@
+Am participa la un meeting cu echipa de integrare pentru a discuta ce trebuie facut pentru acest sprint.
+Am testat aplicatia finala, jucand jocul cu alti colegi de echipa.
+De asemenea am gasit diverse bug-uri si le-am raportat.

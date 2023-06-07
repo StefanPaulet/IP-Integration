@@ -1,0 +1,5 @@
+Am participa la un meeting cu echipa de integrare pentru a discuta ce trebuie facut pentru acest sprint.
+Am vorbit cu Stefan Paulet si cu Luca despre modul de testare a endpointurilor de login si register.
+Am testat endpointurile respective.
+Am avut un call cu Stefan Paulet, inainte de finalizarea sprintului, pentru a integra si a face "functionala" aplicatia.
+
