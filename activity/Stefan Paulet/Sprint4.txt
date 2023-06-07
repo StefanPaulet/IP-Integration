@@ -1,0 +1,3 @@
+-Identified bugs from the previous sprint to be solved
+-Identified UI elememnts that need to be made better and implemented some of them
+-Tested the product, found bugs and helped solve some of them
