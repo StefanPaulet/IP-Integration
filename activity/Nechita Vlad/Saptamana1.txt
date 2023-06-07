@@ -1,6 +1,0 @@
-Am participat la:
-_prima intalnire a echipei de integrare, unde am discutat arhitectura generala a proiectului
-_o intalnire cu echipa de comunicare (+ Stefan Paulet), unde am prezentat ideile pe care le-am discutat in meeting-ul precedent
-_a doua intalnire a echipei de integrare, unde am discutat despre ce a facut fiecare in aceasta saptamana (diagrame + backlog)
-
-Am lucrat la backlog impreuna cu Luca.
